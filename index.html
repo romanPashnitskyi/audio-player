@@ -1,13 +1,39 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport"
-        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <title>Custom Audio Player in JS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="src/index.css">
 </head>
 <body>
-  <h1>project-scaffoldings</h1>
+<div class="audio-player-cont">
+  <div class="player">
+    <div class="logo">
+      <img src="src/images/audio-player.png" width="135"/>
+    </div>
+    <div id="songTitle" class="song-title">My song title will goes here</div>
+    <div class="controllers">
+      <img src="src/images/prev.png" width="55" onClick="previous();" />
+      <img src="src/images/play.png" width="70" onClick="playOrPauseSong();" />
+      <img src="src/images/next.png" width="55" onClick="next();" />
+    </div>
+  </div>
+  <div class="line"><hr/></div>
+  <div class="progress-cont">
+    <div id="currentTime" class="current-time">00:00</div>
+    <input id="songSlider" class="song-slider" type="range" min="0" step="1" onchange="seekSong()" />
+    <div id="duration" class="duration">00:00</div>
+    <img src="src/images/volume-down.png" width="17" />
+    <input id="volumeSlider" class="volume-slider" type="range" min="0" max="1" step="0.01"
+           onchange="adjustVolume()" />
+    <img src="src/images/volume-up.png" width="17" />
+  </div>
+  <ul class="playlist">
+    <li song="Linkin Park - In The End.mp3" cover="linkinpark.jpg" artist="Linkin Park">In The End.mp3</li>
+    <li song="Linkin Park - Faint.mp3" cover="linkinpark.jpg" artist="Linkin Park">Faint.mp3</li>
+    <li song="Linkin Park - Numb.mp3" cover="linkinpark.jpg" artist="Linkin Park">Numb.mp3</li>
+    <li song="Linkin Park - Castle of Glass.mp3" cover="linkinpark.jpg" artist="Linkin Park">Castle of Glass.mp3</li>
+  </ul>
+</div>
 </body>
 </html>
