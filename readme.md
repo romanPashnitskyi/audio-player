@@ -1,6 +1,21 @@
-# Code quality
+# Audio Player
 
-* [Jest](https://jestjs.io) - Zero configuration testing platform
-* [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
-* [Stylelint](https://stylelint.io/) - The Modern linter that helps avoid errors and enforce conventions in styles.
-* [EditorConfig](https://editorconfig.org/) - EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
+This is a simple audio player which can play your favorite songs. This project was developed like test project, it was implemented for improve my skills, and for people who love sing song everywhere.
+
+Teacher - [Vladimir Shevchuk](https://github.com/dosandk)
+Front-camp in [Facebook](https://www.facebook.com/groups/270300106928894/)
+
+# Tech Stack:
+
+* javascript
+* html
+* css
+* scss
+
+# Github pages
+
+[Audio Player](https://romanpashnitskyi.github.io/)
+
+# Mockups
+
+![alt text](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C1b0d87d06bd149efb70bd03ef90ee1c6/projects/M6b76c048ddbfc102045475d5b96545281539637856452/pages/100993d480a7435ca91d8a4ff3c258a5/image/100993d480a7435ca91d8a4ff3c258a5.png)
