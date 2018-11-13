@@ -4,7 +4,7 @@ This is a simple audio player which can play your favorite songs. This project w
 
 Teacher - [Vladimir Shevchuk](https://github.com/dosandk)
 
-Front-camp in [Facebook](https://www.facebook.com/groups/270300106928894/)
+Front-camp on [Facebook](https://www.facebook.com/groups/270300106928894/)
 
 ## Tech Stack:
 
