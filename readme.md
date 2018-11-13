@@ -1,6 +1,6 @@
 # Audio Player
 
-This is a simple audio player which can play your favorite songs. This project was developed like test project, it was implemented for improve my skills, and for people who love sing song everywhere.
+This is a Simple Audio Player with playlist which can play your favorite songs. This project was developed like test project, it was implemented for improve my skills, and for people who love sing song everywhere.
 
 Teacher - [Vladimir Shevchuk](https://github.com/dosandk)
 
