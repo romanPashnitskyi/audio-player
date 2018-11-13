@@ -6,17 +6,17 @@ Teacher - [Vladimir Shevchuk](https://github.com/dosandk)
 
 Front-camp in [Facebook](https://www.facebook.com/groups/270300106928894/)
 
-# Tech Stack:
+## Tech Stack:
 
 * javascript
 * html
 * css
 * scss
 
-# Github pages
+## Demo
 
-[Audio Player](https://romanpashnitskyi.github.io/)
+Check the Player on  [GitHub Pages](https://romanpashnitskyi.github.io/)
 
-# Mockups
+## Mockups
 
 ![alt text](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C1b0d87d06bd149efb70bd03ef90ee1c6/projects/M6b76c048ddbfc102045475d5b96545281539637856452/pages/100993d480a7435ca91d8a4ff3c258a5/image/100993d480a7435ca91d8a4ff3c258a5.png)
