@@ -15,7 +15,7 @@ Front-camp on [Facebook](https://www.facebook.com/groups/270300106928894/)
 
 ## Demo
 
-Check the Player on  [GitHub Pages](https://romanpashnitskyi.github.io/)
+Check the player on  [GitHub Pages](https://romanpashnitskyi.github.io/)
 
 ## Mockups
 
