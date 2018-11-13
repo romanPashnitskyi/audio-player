@@ -5,7 +5,7 @@ Please let me know via [issue tracker](https://github.com/romanPashnitskyi/audio
 
 If you have a proposed fix for an issue, or an enhancement you would like to make to the code please describe it in an issue, then send us the code as a Github pull request as described below.
 ## Pull requests
-### Steps that we're going to follow
+### Steps that I'am going to follow
 
 1. Fork the repository by clicking the 'Fork' icon in the top-right corner of GitHub
 2. Clone the repository in the command line on your PC:
